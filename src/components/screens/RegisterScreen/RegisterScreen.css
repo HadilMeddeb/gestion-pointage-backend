@@ -1,0 +1,26 @@
+.error_message
+{
+    color: #2c3e50; 
+    background-color: rgb(236, 195, 195);
+    border-left: 9px solid red ; 
+    opacity: 0.8;
+    display: block;
+    width: 100%;
+    padding: 5px;
+    padding-left: 10px;
+
+}
+.success_message
+{
+    color: #2c3e50; 
+    background-color: rgb(156, 238, 202);
+    border-left: 9px solid green; 
+    opacity: 0.8;
+    display: block;
+    width: 100%;
+    padding: 5px;
+    padding-left: 10px;
+
+}
+h1.signuptitle
+{color:#17a2b8}
